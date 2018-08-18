@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Groundskeeper Willie",
+      "image": "./img/char1.png",
+      "occupation": "Fry Cook",
+      "location": "A Pineapple Under the Sea"
+    },
+    {
+      "id": 2,
+      "name": "Milhouse Van Houten",
+      "image": "./img/char2.png",
+      "occupation": "Restaurant Owner",
+      "location": "A Giant Anchor"
+    },
+    {
+      "id": 3,
+      "name": "Lisa Simpson",
+      "image": "./img/char6.png",
+      "occupation": "Cashier",
+      "location": "An Easter Island Head"
+    },
+    {
+      "id": 4,
+      "name": "Hans Moleman",
+      "image": "./img/char5.png",
+      "occupation": "Boy Genius",
+      "location": "A Secret Laboratory"
+    },
+    {
+      "id": 5,
+      "name": "Bart Simpson",
+      "image": "./img/char7.png",
+      "occupation": "A Cowardly Dog",
+      "location": "Nowhere, Kansas"
+    },
+    {
+      "id": 6,
+      "name": "Barney Gumble",
+      "image": "./img/char9.png",
+      "occupation": "Student",
+      "location": "Bluffington"
+    },
+    {
+      "id": 7,
+      "name": "Homer Simpson",
+      "image": "./img/char8.png",
+      "occupation": "Looney Toon",
+      "location": "A Rabbit Burrow"
+    },
+    {
+      "id": 8,
+      "name": "Ralph Wiggum",
+      "image": "./img/char10.png",
+      "occupation": "Ladies Man",
+      "location": "Aron City"
+    },
+    {
+      "id": 9,
+      "name": "Fat Tony",
+      "image": "./img/char11.png",
+      "occupation": "Adventurer",
+      "location": "California"
+    },
+    {
+      "id": 10,
+      "name": "Ned Flanders",
+      "image": "./img/char3.png",
+      "occupation": "Cashier",
+      "location": "O-Town, California"
+    },
+    {
+      "id": 11,
+      "name": "Apu Nahasapeemapetilon",
+      "image": "./img/char4.png",
+      "occupation": "Superhero",
+      "location": "Earth"
+    },
+    {
+      "id": 12,
+      "name": "Krusty the Clown",
+      "image": "./img/char12.png",
+      "occupation": "Ahhhh! A Real Monster!",
+      "location": "Under a City Dump"
+    }
+  ]
+  

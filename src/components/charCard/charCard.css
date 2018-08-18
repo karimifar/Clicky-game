@@ -1,0 +1,43 @@
+.card {
+    background: #fff;
+    border-radius: 8px;
+    margin: 20px 10px;
+    position: relative;
+    width: 20%;
+    text-align: left;
+    transition: all 0.1s ease-in-out;
+    border: #ddd 1px solid;
+    min-width: 120px;
+  }
+
+  .card:hover{
+    box-shadow: 0 3px 3px #ddd;
+    cursor: pointer;
+    transition: all 0.1s ease-in-out
+  }
+  .card:hover .content{
+    visibility: visible;
+    transition: all 0.2s ease-in-out
+  }
+  .card > .img-container {
+    height: 250px;
+    overflow: hidden;
+    text-align: center;
+    background: #eee;
+    border-radius: 8px;
+  }
+  .card > .img-container > img {
+    width: 80%;
+  }
+  
+  .card > .content {
+    font-size: 12px;
+    padding: 5px 10px;
+    visibility: hidden;
+    transition: all 0.2s ease-in-out;
+    font-weight: 700;
+    color: #444;
+
+  }
+
+  
